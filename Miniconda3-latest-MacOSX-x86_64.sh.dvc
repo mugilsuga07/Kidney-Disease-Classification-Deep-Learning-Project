@@ -1,0 +1,5 @@
+outs:
+- md5: 33dd1df2b265ccc6886c732afa3bff28
+  size: 118297456
+  hash: md5
+  path: Miniconda3-latest-MacOSX-x86_64.sh
